@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Camara;Amadou;;;
+FN:Amadou Camara
+ORG:Amya Group
+TEL;TYPE=CELL,VOICE:+33685242707
+EMAIL;TYPE=INTERNET,WORK:amadou@amyagroup.com
+URL:https://amyagroup.com
+END:VCARD

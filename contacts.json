@@ -1,0 +1,12 @@
+{
+  "entreprise": "Amya Group",
+  "site": "https://amyagroup.com",
+  "base_url": "https://avistar-info.github.io/amya-cartes",
+  "contacts": [
+    { "slug": "nivana",   "prenom": "Nivana",   "nom": "Subandriyo", "poste": "", "tel": "+33695047223", "email": "nivana@amyagroup.com" },
+    { "slug": "amadou",   "prenom": "Amadou",   "nom": "Camara",     "poste": "", "tel": "+33685242707", "email": "amadou@amyagroup.com" },
+    { "slug": "thierno",  "prenom": "Thierno",  "nom": "Diallo",     "poste": "", "tel": "+33649578593", "email": "theirno@amyagroup.com" },
+    { "slug": "daryn",    "prenom": "Daryn",    "nom": "Bri",        "poste": "", "tel": "+33640943870", "email": "Daryn@joysos.fr" },
+    { "slug": "corentin", "prenom": "Corentin", "nom": "Janin",      "poste": "", "tel": "",             "email": "" }
+  ]
+}
