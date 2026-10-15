@@ -7,6 +7,6 @@
     { "slug": "amadou",   "prenom": "Amadou",   "nom": "Camara",     "poste": "", "tel": "+33685242707", "email": "amadou@amyagroup.com" },
     { "slug": "thierno",  "prenom": "Thierno",  "nom": "Diallo",     "poste": "", "tel": "+33649578593", "email": "thierno@amyagroup.com" },
     { "slug": "daryn",    "prenom": "Daryn",    "nom": "Bri",        "poste": "", "tel": "+33640943870", "email": "Daryn@joysos.fr" },
-    { "slug": "corentin", "prenom": "Corentin", "nom": "Janin",      "poste": "", "tel": "",             "email": "" }
+    { "slug": "corentin", "prenom": "Corentin", "nom": "Janin",      "poste": "", "tel": "+33782207249",             "email": "" }
   ]
 }
